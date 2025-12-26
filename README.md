@@ -1,2 +1,2 @@
-# Yluthoor-Cosmology-Model
+# Yluthoor-Cosmology-Model [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18058009.svg)](https://doi.org/10.5281/zenodo.18058009)
 Phenomenological effective parametrization for H(z) analysis and MCMC inference.
