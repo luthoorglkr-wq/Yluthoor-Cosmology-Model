@@ -1,0 +1,7 @@
+\section{English Technical} \label{sec: 2 }
+
+In this work, we have presented the Yluthoor Model, a new phenomenological effective parametrization for the Hubble expansion rate $H(z)$. Our analysis shows that this geometric approach provides a remarkably robust fit to the late-time cosmological data, specifically when tested against Cosmic Chronometers and the Pantheon+ SNIa compilation.
+
+The primary finding of our study is that the Yluthoor Model achieves a minimum $\chi^2$ of 1026.42, which is numerically superior to the $1026.86$ obtained by the standard $\Lambda$CDM model using the same dataset. Although the Information Criteria (AIC and BIC) indicate a slight statistical preference for the $\Lambda$CDM model due to its fewer degrees of freedom, the difference in AIC ($\Delta AIC = 1.56$) places the Yluthoor Model within the range of "weak evidence" against it, making both models statistically indistinguishable in the current observational landscape.
+
+The success of this "fusquinha" (effective geometric model) in competing with the "Ferrari" (Standard $\Lambda$CDM) underscores the importance of exploring alternative functional forms to describe cosmic acceleration. The Yluthoor Model serves as a valuable tool for testing the consistency of expansion data without the theoretical priors of a cosmological constant. Future surveys with higher precision at high redshifts will be crucial to further constrain the parameters $a, b,$ and $k$, potentially revealing whether the subtle deviations found here are the key to resolving the ongoing Hubble tension.
